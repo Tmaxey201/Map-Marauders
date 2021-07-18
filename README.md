@@ -1,4 +1,12 @@
 # Map Marauders
+
+<br>
+## My Role In This Project
+<br>
+I was tasked with creating a real time chat and chat interface utilizing Socket.io, javascript and pure CSS.
+This chat also needed to compare answer choices given with information fed to us via 3rd party API and also connecting the score to the MySql database.
+This was a new technology for me and it took some time to figure out all the working pieces. 
+I think the end result was worth the effort!
 <br>
 
 ### Anthony Planisek
