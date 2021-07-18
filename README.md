@@ -15,12 +15,12 @@ I was tasked with creating a real time chat and chat interface utilizing Socket.
 This chat also needed to compare answer choices given with information fed to us via 3rd party API and also connecting the score to the MySql database.
 This was a new technology for me and it took some time to figure out all the working pieces. 
 I think the end result was worth the effort!
+
 <br>
 
 ## Team
 
 <br>
-
 
 ### Anthony Planisek
 
